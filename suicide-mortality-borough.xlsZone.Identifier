@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.london.gov.uk/
+HostUrl=https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/suicide-mortality-rates-borough/2016-02-11T11%3A50%3A37/suicide-mortality-borough.xls?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20220114%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20220114T182835Z&X-Amz-Expires=300&X-Amz-Signature=fa8e12cdddd50f81935190ca4ace409648282cf59e9c700a2e1c1761220053c6&X-Amz-SignedHeaders=host

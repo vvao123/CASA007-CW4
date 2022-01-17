@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.london.gov.uk/
+HostUrl=https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/earnings-place-residence-borough/2020-12-18T10%3A49%3A37/earnings-residence-borough.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20220114%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20220114T182942Z&X-Amz-Expires=300&X-Amz-Signature=554b42ba516c4106a1c79046f17564dec50b0d6370e9f11a915284a9a5d48e1d&X-Amz-SignedHeaders=host

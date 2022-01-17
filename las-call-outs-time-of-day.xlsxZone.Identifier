@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.london.gov.uk/
+HostUrl=https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/london-ambulance-service-call-outs-by-time-of-day/2020-10-01T12%3A40%3A12/las-call-outs-time-of-day.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20220114%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20220114T113614Z&X-Amz-Expires=300&X-Amz-Signature=ea6ce8995b99a8b2ffeffa92c119695676a9d6364b236745befbe798c77961a7&X-Amz-SignedHeaders=host

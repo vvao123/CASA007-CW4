@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.london.gov.uk/
+HostUrl=https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/land-area-and-population-density-ward-and-borough/2018-03-05T10%3A53%3A26/housing-density-borough.csv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20220114%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20220114T183716Z&X-Amz-Expires=300&X-Amz-Signature=a7f2f30229a05fb451055141e857f1d55a2a830bf5f3141746ce0af45212f8ba&X-Amz-SignedHeaders=host

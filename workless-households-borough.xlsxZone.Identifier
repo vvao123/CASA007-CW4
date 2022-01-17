@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data.london.gov.uk/
+HostUrl=https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/workless-households-borough/2021-11-23T16%3A42%3A19/workless-households-borough.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20220114%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20220114T183051Z&X-Amz-Expires=300&X-Amz-Signature=9b7906a823a027089fb373b20e4b9e5ff95151aa9ec4b4094056ff779d4e4da4&X-Amz-SignedHeaders=host
